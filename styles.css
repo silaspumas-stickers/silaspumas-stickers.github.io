@@ -109,4 +109,10 @@ main {
     max-width: 200px;
     margin: 20px auto;
     background-color: #007aff;
-    color:
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    padding: 8px 16px;
+    cursor: pointer;
+    text-align: center;
+}
