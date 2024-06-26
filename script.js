@@ -18,7 +18,7 @@ const items = [
     { name: 'Sarcasm Definition', image: 'sarcasm.png' },
     { name: 'Pikachu Face', image: 'pika.jpg' },
     { name: '1% Remaining', image: 'percent.png' },
-    { name: 'Finder Logo', image: 'finder.png' },
+    { name: 'Finder Logo', image: 'finder.jpg' },
     { name: 'Sticker 21', image: 'img21.png' },
     { name: 'Sticker 22', image: 'img22.png' },
     { name: 'Sticker 23', image: 'img23.png' },
