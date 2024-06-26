@@ -19,11 +19,11 @@ const items = [
     { name: 'Pikachu Face', image: 'pika.jpg' },
     { name: '1% Remaining', image: 'percent.png' },
     { name: 'Finder Logo', image: 'finder.jpg' },
-    { name: 'Sticker 21', image: 'img21.png' },
-    { name: 'Sticker 22', image: 'img22.png' },
-    { name: 'Sticker 23', image: 'img23.png' },
-    { name: 'Sticker 24', image: 'img24.png' },
-    { name: 'Sticker 25', image: 'img25.png' },
+    { name: 'Bear Holding Boba', image: 'bobabear.png' },
+    { name: 'Cute Fox', image: 'fox.jpg' },
+    { name: 'Baby Panda', image: 'panda.png' },
+    { name: 'Hang Loose Racoon', image: 'raccoon.png' },
+    { name: 'Stack of Sloths', image: 'sloth.png' },
 ];
 
 const cart = [];
