@@ -62,11 +62,19 @@ document.addEventListener('DOMContentLoaded', () => {
         updateCart();
     };
 
+    window.removeFromCart = (index) => {
+        cart.splice(index, 1);
+        updateCart();
+    };
+
     function updateCart() {
         cartItemsContainer.innerHTML = '';
         cart.forEach((item, index) => {
             const cartItemElement = document.createElement('li');
-            cartItemElement.innerText = item.name;
+            cartItemElement.innerHTML = `
+                ${item.name} 
+                <button onclick="removeFromCart(${index})">Remove</button>
+            `;
             cartItemsContainer.appendChild(cartItemElement);
         });
         cartCount.innerText = cart.length;
