@@ -16,7 +16,7 @@ const items = [
     { name: 'Ya Like Jazz', image: 'jazz.jpg' },
     { name: '*Cries in Spanish*', image: 'spanish.png' },
     { name: 'Sarcasm Definition', image: 'sarcasm.png' },
-    { name: 'Pikachu Face', image: 'pika.jng' },
+    { name: 'Pikachu Face', image: 'pika.jpg' },
     { name: '1% Remaining', image: 'percent.png' },
     { name: 'Finder Logo', image: 'finder.png' },
     { name: 'Sticker 21', image: 'img21.png' },
