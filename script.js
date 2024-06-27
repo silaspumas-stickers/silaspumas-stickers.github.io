@@ -24,6 +24,8 @@ const items = [
     { name: 'Baby Panda', image: 'panda.png' },
     { name: 'Hang Loose Racoon', image: 'raccoon.png' },
     { name: 'Stack of Sloths', image: 'sloth.png' },
+    { name: 'Bach Bach Bach', image: 'bach.png' },
+    { name: 'Catfish with Top Hat', image: 'catfish.png' },
 ];
 
 const cart = [];
